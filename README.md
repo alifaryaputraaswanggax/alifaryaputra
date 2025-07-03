@@ -1,7 +1,7 @@
 # alifaryaputra
 ### 👋 Halo, saya Alif Aryaputra Aswannga
 
-Saya lulusan Informatika yang sedang fokus belajar Front-End Web Development, khususnya React.js dan UI/UX. Saat ini aktif membangun portofolio proyek pribadi sambil mengikuti bootcamp dan pelatihan.
+Saya lulusan Informatika yang sedang fokus meningkatkan Front-End Web Development, khususnya React.js dan UI/UX. Saat ini aktif membangun portofolio proyek pribadi sambil mengikuti bootcamp dan pelatihan.
 
 ### 🔧 Skill Saat Ini
 - HTML, CSS, JavaScript
